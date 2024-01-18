@@ -19,7 +19,7 @@ summary(cars)
 ```
 
 new line
-
+more new lines 
 ## Including Plots
 
 You can also embed plots, for example:
